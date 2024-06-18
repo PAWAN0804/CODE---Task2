@@ -1,5 +1,5 @@
+name = input("Enter the name of the student")
 print("Please Enter the Marks Obtained in SSc Examination: ")
-
 
 English = float(input("Enter the marks obtained in English: "))
 Hindi = float(input("Enter the marks obtained in Hindi: "))
@@ -10,7 +10,7 @@ History = float(input("Enter the marks obtained in History: "))
 
 total_marks = (English + Hindi + Maths + Science + History)
 avg_marks= (total_marks)/5
-print(f"you obtained {total_marks}total & {avg_marks} average marks in your SSC Examination.")
+print(f"dear{name}, you obtained {total_marks}total & {avg_marks} average marks in your SSC Examination.")
 
 
 if avg_marks>=91 and avg_marks<=100:
