@@ -4,11 +4,12 @@ ID :- CT08DA289
 Domain :- Python Programming 
 Duration :- May to June 2024
 Mentor :- Sravani Gouni
+
+
 Descriotion :-
 A student grade tracker in Python is a simple yet effective system for managing and monitoring students' academic performance. 
 This application allows educators to store, update, retrieve, and analyze student grades efficiently.
 The implementation involves creating a command-line based program with various functionalities to handle student data.
-
 The core functionalities of the student grade tracker include:
 Add Student: Allows the addition of new students with a unique ID and name.
 Add Grade: Enables entering grades for a student in specific subjects.
